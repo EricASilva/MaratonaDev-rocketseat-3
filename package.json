@@ -1,0 +1,19 @@
+{
+  "name": "MaratonaDev3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EricASilva/MaratonaDev-rocketseat-3.git",
+  "author": "<eric.silva.augusto@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": " nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
