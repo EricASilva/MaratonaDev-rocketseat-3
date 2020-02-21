@@ -2,6 +2,7 @@
   <img src="./public/print1.png">
 </p>
 
-#About :rocket:
+# About :rocket:
 
 Projeto desenvolvido em conjunto com o time Rocketseat semana MaratonaDev 3° edição.
+Trata-se 
